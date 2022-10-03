@@ -3,5 +3,5 @@
 ## Installation 
 
 ```clojure
-com.computesoftware/malli-registry {:mvn/version "0.1.1"}
+com.computesoftware/malli-registry {:mvn/version "0.1.2"}
 ```
